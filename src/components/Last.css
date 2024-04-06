@@ -1,0 +1,29 @@
+* footer section start */ * {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+  background: #fff;
+  max-width: 1920px;
+  margin: 0 auto;
+  overflow-x: hidden;
+  font-family: poppins;
+}
+.copy-right-sec {
+  padding: 2rem;
+  background: #2b3035;
+  color: #fff;
+  text-align: center;
+}
+.copy-right-sec a {
+  color: #fcd462;
+  font-weight: 500;
+}
+a {
+  text-decoration: none;
+}
+
